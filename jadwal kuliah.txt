@@ -1,0 +1,7 @@
+jadwal mata kuliah smester 3 stmik lombok TIA
+|==============================================================================================================================|
+|         senin     |            selasa               |            rabu          |             Kamis           |    jum'at     |
+|===================|=================================|==========================|=============================|===============|
+|  web progreming   | pemrograman berorientasi objeck |Sistem Basis Data         |pemrosesan data terdistribusi|etika propesi  |
+|  jaringan kom     |                                 |Pengantar Budaya daerah   |                             |Sistem Digital |
+|==============================================================================================================================|
